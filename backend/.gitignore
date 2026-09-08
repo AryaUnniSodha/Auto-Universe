@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+app/ml/artifacts/*.joblib
+app/rag/index/*
+!app/rag/index/.gitkeep
+.env
+.pytest_cache/
+*.egg-info/
