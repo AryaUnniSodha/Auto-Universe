@@ -1,7 +1,7 @@
-# UniVerse AI 2026
+# Auto-Universe 2026
 ### Autonomous University Operating System
 
-UniVerse AI 2026 is a full-stack, AI-native platform that goes beyond a traditional ERP/LMS.
+Auto-UniVerse 2026 is a full-stack, AI-native platform that goes beyond a traditional ERP/LMS.
 Faculty upload attendance, marks, assignments and syllabus **once** — after that, a set of
 collaborating AI agents continuously analyze that data and turn it into real-time, explainable
 insight for students, faculty, HODs, placement staff and administrators.
